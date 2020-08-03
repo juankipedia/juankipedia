@@ -6,8 +6,7 @@
 - Competitive Programming Contestant
 - C.S enthusiast 
 
-Feel free to contact me:
-juandiegp17@gmail.com
-Web site:
-https://juankipedia.github.io/
+Feel free to contact me: juandiegp17@gmail.com
+
+[Web site](https://juankipedia.github.io)
 
