@@ -1,4 +1,4 @@
-### My name is Juan Diego M. Flores, and I am:
+### Hi! I am Juan Diego M. Flores, and I am:
 
 - System Engineering Student
 - C.S Student
