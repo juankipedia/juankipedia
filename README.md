@@ -1,15 +1,12 @@
 ### My name is Juan Diego M. Flores, and I am:
 
 - System Engineering Student
-- Software Developer at Mammut.io
-- Ex Teacher Assistant
+- C.S Student
+- Software Developer at *Mammut.io*
+- Ex Teacher Assistant at La *Universidad de Los Andes*.
 - Competitive Programming Contestant
-- C.S enthusiast 
 
 Feel free to contact me: juandiegp17@gmail.com
 
 [Web site](https://juankipedia.github.io)
-
----
-
-![juankipedia's Github Stats](https://github-readme-stats.vercel.app/api?username=juankipedia&show_icons=true&hide_border=true&count_private=true&theme=dark)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
