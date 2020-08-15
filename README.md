@@ -11,5 +11,8 @@ Feel free to contact me: juandiegp17@gmail.com
 [Web site](https://juankipedia.github.io)
 
 <a href="https://codeforces.com/profile/juankipedia" target="_blank">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" href="https://codeforces.com/profile/juankipedia" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/juankipedia/" target="_blank">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
