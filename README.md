@@ -8,11 +8,11 @@
 
 Feel free to contact me: juandiegp17@gmail.com
 
-[Web site](https://juankipedia.github.io)
+[<img align="left" alt="juankipedia.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="juankipedia | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="juankipedia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<a href="https://codeforces.com/profile/juankipedia" target="_blank">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/juankipedia/" target="_blank">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
+
+[website]: https://juankipedia.github.io
+[codeforces]: https://codeforces.com/profile/juankipedia
+[linkedin]: https://www.linkedin.com/in/juankipedia/
