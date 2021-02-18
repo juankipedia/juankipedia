@@ -2,8 +2,6 @@
 
 - System Engineering Student (Universidad de Los Andes, Venezuela).
 - C.S Student (Universidad Nacional, Colombia).
-- Software Developer at *Mammut.io*
-- Ex Teacher Assistant at La *Universidad de Los Andes*.
 - Competitive Programming Contestant
 
 Feel free to contact me: juandiegp17@gmail.com
