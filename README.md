@@ -1,7 +1,7 @@
-### Hi! I am Juan Diego M. Flores, and I am:
+### Hi! I am Juan Diego, and I am:
 
-- System Engineering Student (Universidad de Los Andes, Venezuela).
 - C.S Student (Universidad Nacional, Colombia).
+- System Engineering Student (Universidad de Los Andes, Venezuela).
 - Competitive Programming Contestant
 
 Feel free to contact me: juandiegp17@gmail.com
