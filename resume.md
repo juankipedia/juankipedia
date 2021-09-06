@@ -15,9 +15,9 @@ that help me to over pass my skill limits.
 ### Mammut.io
 #### Software Developer | Jun. 2017 – Jul 2018
 Working on main core of developing chat bots and developing frameworks for Programmers and non-
-programmers.
+programmers using scala and python.
 #### Software Engineer | Aug. 2018 – Oct. 2020
-Working with natural language processing and main core of developing chat bots.
+Working on main core of developing chat bots using scala.
 
 ### PathScale
 #### Software Engineer | Dic. 2020 - Jul. 2021
