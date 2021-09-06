@@ -23,6 +23,10 @@ Working with natural language processing and main core of developing chat bots.
 #### Software Engineer | Dic. 2020 - Jul. 2021
 Working as a software developer building Space Revenge video game, also working with python for web scrapping.
 
+### Serverup
+#### Podcast Co-host | Jun. 2021 - Present
+Serverup is a podcast about software development.
+
 ## Skills/Knowledge
 * ***Languages***: Spanish(Native), English(Fluent).
 * ***Programming Languages***: C++, C, Scala, Python.
