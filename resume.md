@@ -6,7 +6,7 @@ extracurricular studying and active participation on programming competitions. I
 that help me to over pass my skill limits.
 
 ## Experience
-### La Universidad de los Andes (Venezuela)
+### Universidad de los Andes (Venezuela)
 #### Teacher Assistant | Sep. 2017 – Oct 2019
 * Programming I: Programming basics on C.
 * Programming II: Object oriented programming, data storage and data structures on C++.
@@ -34,7 +34,7 @@ Serverup is a podcast about software development.
 * ***Computer Science***: Dynamic Programming, Maths, Binary Search Trees and other useful Data Structures (like Segment Trees), Graphs and Flow Network Algorithms, String Algorithms, Hashing.
 
 ## Education
-### La Universidad de los Andes
+### Universidad de los Andes
 #### System Engineering | Jan. 2015 – present
 ### Universidad Nacional de Colombia
 #### Computer Science | Sep. 2020 - present
