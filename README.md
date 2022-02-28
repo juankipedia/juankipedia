@@ -1,6 +1,5 @@
 ### Hi! I am Juan Diego, and I am:
 
-- C.S Student (Universidad Nacional, Colombia).
 - System Engineering Student (Universidad de Los Andes, Venezuela).
 - Competitive Programming Contestant
 
