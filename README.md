@@ -1,6 +1,6 @@
 ### Hi! I am Juan Diego, and I am:
 
-- Amazon Software Developer I
+- Software Developer at Amazon
 - System Engineering Student (Universidad de Los Andes, Venezuela).
 - Compuer Science Student (Universidad Nacional, Colombia).
 - Competitive Programming Contestant
