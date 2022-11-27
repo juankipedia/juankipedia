@@ -1,9 +1,10 @@
 ### Hi! I am Juan Diego, and I am:
 
+- Amazon Software Developer I
 - System Engineering Student (Universidad de Los Andes, Venezuela).
 - Compuer Science Student (Universidad Nacional, Colombia).
 - Competitive Programming Contestant
-- ServerUp podcast cohost
+- ServerUp Podcast cohost
 
 Feel free to contact me: juandiegp17@gmail.com
 
