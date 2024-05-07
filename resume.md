@@ -44,10 +44,10 @@ Digital & Emerging Payments SDE.
 "Física: Dimensión y Movimiento." Jan. 2020
 
 ***École polytechnique fédérale de Lausanne***: 
-“Functional Programming Principles in Scala.” Jun. 2017, “Functional Program Design in Scala.” Nov. 2018. 
+"Functional Programming Principles in Scala." Jun. 2017, "Functional Program Design in Scala." Nov. 2018. 
 
 ***Saint Petersburg State University***:
-“Competitive Programmer's Core Skills” Jan 2019.
+"Competitive Programmer's Core Skills" Jan 2019.
 
 ***University of California San Diego and National Research University Higher School of Economics***:
 "Mathematical Thinking in Computer Science" Apr 2019.
