@@ -40,6 +40,9 @@ Digital & Emerging Payments SDE.
 ***University of Alberta***
 "Object-Oriented Design." Jan. 2024, "Software Architecture." Apr. 2024, "Design Patterns." Apr.2024.
 
+***Institute of Computing-UNICAMP***:
+"Brazilian ICPC Summer School in World Final Class" Feb. 2023.
+
 ***Tecnológico de Monterrey***
 "Física: Dimensión y Movimiento." Jan. 2020
 
