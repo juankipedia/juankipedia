@@ -1,4 +1,4 @@
-### Hi! I am Juan Diego, and I am:
+### Juan Diego
 
 Software Developer @ Amazon
 
